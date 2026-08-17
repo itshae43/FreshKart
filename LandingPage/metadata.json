@@ -1,0 +1,6 @@
+{
+  "name": "FreshKart",
+  "description": "FreshKart - Welcome to the future of grocery shopping. The smarter way to manage your groceries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
